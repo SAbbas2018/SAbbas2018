@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on BookCase Mern Stack Application
+- 🌱 I’m currently learning SQL, PostgresSQL, PHP, Python Data Analysis
+- 📫 How to reach me: raza.35.abbas@gmail.com
 <!--
 **SAbbas2018/SAbbas2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
