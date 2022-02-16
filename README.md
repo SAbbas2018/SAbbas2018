@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning PHP, Responsive Web Design, and Agile Development
+- 🌱 I’m currently learning React Native, and how to use Tools such as AWS and Firebase
 
 My Portfolio: [https://sabbas2018.github.io/](https://sabbas2018.github.io/)
 <!--
