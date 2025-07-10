@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React Native, and how to use Tools such as AWS and Firebase
-
-My Portfolio: [https://sabbas2018.github.io/](https://sabbas2018.github.io/)
 <!--
 **SAbbas2018/SAbbas2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
